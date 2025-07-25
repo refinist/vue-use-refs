@@ -1,10 +1,6 @@
 # vue-use-refs
 
-<!-- [![npm version](https://badge.fury.io/js/vue-use-refs.svg)](https://badge.fury.io/js/vue-use-refs)
-[![Unit Test](https://github.com/refinist/vue-use-refs/actions/workflows/unit-test.yml/badge.svg)](https://github.com/refinist/vue-use-refs/actions/workflows/unit-test.yml)
-[![codecov](https://codecov.io/gh/refinist/vue-use-refs/branch/main/graph/badge.svg)](https://codecov.io/gh/refinist/vue-use-refs) -->
-
-[![npm](https://img.shields.io/npm/v/vue-use-refs.svg?style=flat&colorA=E36002&colorB=FF9C24)](https://npmjs.com/package/vue-use-refs) [![Unit Test](https://github.com/refinist/vue-use-refs/actions/workflows/unit-test.yml/badge.svg)](https://github.com/refinist/vue-use-refs/actions/workflows/unit-test.yml) [![codecov](https://img.shields.io/codecov/c/github/refinist/vue-use-refs?style=flat&colorA=E36002&colorB=FF9C24)](https://codecov.io/github/refinist/vue-use-refs)
+[![npm](https://img.shields.io/npm/v/vue-use-refs.svg?colorA=42b883&colorB=35495e)](https://npmjs.com/package/vue-use-refs) [![Unit Test](https://img.shields.io/github/actions/workflow/status/refinist/vue-use-refs/unit-test.yml?colorA=42b883&colorB=35495e&label=Unit%20Test)](https://github.com/refinist/vue-use-refs/actions/workflows/unit-test.yml) [![codecov](https://img.shields.io/codecov/c/github/refinist/vue-use-refs?colorA=42b883&colorB=35495e)](https://codecov.io/github/refinist/vue-use-refs)
 
 A lightweight composable for Vue 3 to manage multiple template refs. It provides a clean way to handle dynamic numbers of element or component references, especially useful for list rendering scenarios.
 
