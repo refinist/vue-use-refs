@@ -6,7 +6,7 @@ A lightweight composable for Vue 3 to manage multiple template refs. It provides
 
 ## ✨ Features
 
-- 🚀 **Lightweight** - Zero dependencies, only a few KB gzipped
+- 🚀 **Lightweight** - Zero dependencies, ~153 bytes gzipped
 - 📦 **Type Safe** - Full TypeScript support
 - 🔧 **Easy to Use** - Simple and intuitive API
 - ⚡ **High Performance** - Automatic cleanup, prevents memory leaks
