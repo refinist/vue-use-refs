@@ -1,6 +1,6 @@
 {
   "name": "vue-use-refs",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A lightweight composable for Vue 3 to manage multiple template refs",
   "keywords": [
     "vue",
