@@ -49,7 +49,7 @@
   },
   "prettier": "@refinist/prettier-config",
   "devDependencies": {
-    "@refinist/eslint-config": "^0.0.3",
+    "@refinist/eslint-config": "^1.0.4",
     "@refinist/prettier-config": "^0.0.4",
     "@vitejs/plugin-vue": "^6.0.0",
     "@vitest/coverage-istanbul": "3.2.4",
