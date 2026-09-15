@@ -55,7 +55,7 @@
     "@vitest/coverage-istanbul": "3.2.4",
     "@vue/test-utils": "^2.4.6",
     "bumpp": "^10.2.3",
-    "eslint": "^9.34.0",
+    "eslint": "^10.10.0",
     "jsdom": "^26.1.0",
     "prettier": "^3.6.2",
     "tsdown": "^0.14.2",
