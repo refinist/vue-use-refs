@@ -50,7 +50,7 @@
   "prettier": "@refinist/prettier-config",
   "devDependencies": {
     "@refinist/eslint-config": "^1.0.4",
-    "@refinist/prettier-config": "^0.0.4",
+    "@refinist/prettier-config": "^1.2.0",
     "@vitejs/plugin-vue": "^6.0.1",
     "@vitest/coverage-istanbul": "3.2.4",
     "@vue/test-utils": "^2.4.6",
